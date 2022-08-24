@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TheRemag
-- 👀 I’m interested in Drawing, Cybersecurity and Programming
-- 🌱 I’m currently learning Pentesting using Tryhackme.com and Programming from various soures on the Internet
-- 📫 How to reach me: 
+- Hi, I’m @TheRemag
+- I’m interested in Drawing, Cybersecurity and Programming
+- I’m currently learning Pentesting using Tryhackme.com and Programming from various soures on the Internet
+- How to reach me: 
 - email: filipgdula@gmail.com
 - Discord: The_Remag#1773
 - Twitter: @The_Remag
